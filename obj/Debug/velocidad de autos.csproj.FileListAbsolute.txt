@@ -1,0 +1,7 @@
+C:\Users\samco\source\repos\velocidad de autos\bin\Debug\velocidad de autos.exe.config
+C:\Users\samco\source\repos\velocidad de autos\bin\Debug\velocidad de autos.exe
+C:\Users\samco\source\repos\velocidad de autos\bin\Debug\velocidad de autos.pdb
+C:\Users\samco\source\repos\velocidad de autos\obj\Debug\velocidad de autos.csproj.AssemblyReference.cache
+C:\Users\samco\source\repos\velocidad de autos\obj\Debug\velocidad de autos.csproj.CoreCompileInputs.cache
+C:\Users\samco\source\repos\velocidad de autos\obj\Debug\velocidad de autos.exe
+C:\Users\samco\source\repos\velocidad de autos\obj\Debug\velocidad de autos.pdb
